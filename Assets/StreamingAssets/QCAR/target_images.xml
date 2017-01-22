@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="desktop" size="1.000000 0.752115" />
+    <ImageTarget name="penguin" size="1.000000 1.616333" />
+    <ImageTarget name="keyboard" size="1.000000 1.694809" />
+    <ImageTarget name="IMG_2905" size="1.000000 0.662843" />
+    <ImageTarget name="mystones" size="1.000000 0.714508" />
+    <ImageTarget name="nessiecard" size="1.000000 1.775000" />
+    <ImageTarget name="lifeofpurpose" size="88.900002 153.244965" />
+  </Tracking>
+</QCARConfig>
